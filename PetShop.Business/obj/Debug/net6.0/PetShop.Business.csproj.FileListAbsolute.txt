@@ -1,0 +1,17 @@
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Business\bin\Debug\net6.0\PetShop.Business.deps.json
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Business\bin\Debug\net6.0\PetShop.Business.dll
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Business\bin\Debug\net6.0\PetShop.Business.pdb
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Business\bin\Debug\net6.0\PetShop.Core.dll
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Business\bin\Debug\net6.0\PetShop.Data.dll
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Business\bin\Debug\net6.0\PetShop.Data.pdb
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Business\bin\Debug\net6.0\PetShop.Core.pdb
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Business\obj\Debug\net6.0\PetShop.Business.csproj.AssemblyReference.cache
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Business\obj\Debug\net6.0\PetShop.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Business\obj\Debug\net6.0\PetShop.Business.AssemblyInfoInputs.cache
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Business\obj\Debug\net6.0\PetShop.Business.AssemblyInfo.cs
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Business\obj\Debug\net6.0\PetShop.Business.csproj.CoreCompileInputs.cache
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Business\obj\Debug\net6.0\PetShop.Business.csproj.CopyComplete
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Business\obj\Debug\net6.0\PetShop.Business.dll
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Business\obj\Debug\net6.0\refint\PetShop.Business.dll
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Business\obj\Debug\net6.0\PetShop.Business.pdb
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Business\obj\Debug\net6.0\ref\PetShop.Business.dll

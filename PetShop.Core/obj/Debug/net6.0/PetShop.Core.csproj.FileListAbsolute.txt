@@ -1,0 +1,12 @@
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Core\bin\Debug\net6.0\PetShop.Core.deps.json
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Core\bin\Debug\net6.0\PetShop.Core.dll
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Core\bin\Debug\net6.0\PetShop.Core.pdb
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Core\obj\Debug\net6.0\PetShop.Core.csproj.AssemblyReference.cache
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Core\obj\Debug\net6.0\PetShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Core\obj\Debug\net6.0\PetShop.Core.AssemblyInfoInputs.cache
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Core\obj\Debug\net6.0\PetShop.Core.AssemblyInfo.cs
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Core\obj\Debug\net6.0\PetShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Core\obj\Debug\net6.0\PetShop.Core.dll
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Core\obj\Debug\net6.0\refint\PetShop.Core.dll
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Core\obj\Debug\net6.0\PetShop.Core.pdb
+C:\Users\ll novbe\Desktop\PetShop\PetShop.Core\obj\Debug\net6.0\ref\PetShop.Core.dll
